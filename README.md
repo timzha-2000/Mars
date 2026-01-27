@@ -2,6 +2,8 @@
 
 This repository contains all the rock physics model implementations. Every model has its own sub-repository, makeing a total of 8 sub-repositories.
 
+All codes are ran with 50000 iterations.
+
 DEMV being Differential Effective Medium (DEM) + Voigt, DEMVH being DEM + Hill
 
 HS being Hashin-Shtrikman (HS) + Voigt, and HSh being HS + Hill
